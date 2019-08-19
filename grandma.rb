@@ -1,4 +1,7 @@
-def speak_to_grandma
+def speak_to_grandma(phrase)
+  puts "I LOVE YOU GRANDMA!".upcase
+end
+
   # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
